@@ -211,6 +211,7 @@ describe("Web Platform Tests", () => {
     "html/syntax/parsing/template/clearing-the-stack-back-to-a-given-context/clearing-stack-back-to-a-table-row-context.html",
     // "html/syntax/parsing/template/creating-an-element-for-the-token/template-owner-document.html", // template content owner document semantics not yet implemented
     "html/webappapis/atob/base64.html",
+    "html/webappapis/scripting/events/event-handler-processing-algorithm.html",
     "html/webappapis/system-state-and-capabilities/the-navigator-object/navigator.any.html",
     "html/webappapis/system-state-and-capabilities/the-navigator-object/navigator-indexed.html",
     "html/webappapis/system-state-and-capabilities/the-navigator-object/navigatorlanguage.html",
